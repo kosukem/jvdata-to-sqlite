@@ -1,0 +1,2 @@
+# jvdata-to-sqlite
+JRA-VANデータラボが提供する競馬データJVDataをSQLiteデータベースに変換するExcel VBAプロジェクト
